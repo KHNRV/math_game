@@ -12,10 +12,6 @@
 
 ![Welcome Page](./docs/images/Welcome.png)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`KHNRV`, `super_math_challenge`, `twitter_handle`, `bonjour@kevinnicolas.com`, `SUPER MATH CHALLENGE`, `Want show to your friends who's the math boss? Don't wait any longer! Just fire up your computer, install Ruby, clone this repo, and lunch the game in your terminal. Simple right?`
-
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
